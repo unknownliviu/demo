@@ -1,3 +1,4 @@
+#some change on master
 def search(arr, looking_for):
     if looking_for < arr[0] or looking_for > arr[-1]:
         return -1
