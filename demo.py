@@ -40,4 +40,6 @@ def main():
     return find_index(arr, 0, len(arr), looking_for)
 
 
-print(main())
+# print(main())
+
+print("somedata")
